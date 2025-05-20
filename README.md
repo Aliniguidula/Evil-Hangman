@@ -1,4 +1,5 @@
 Evil Hangman 🪓
+
 A twist on the classic Hangman game—this Java-based program secretly manipulates the hidden word to make the player's task as difficult as possible. Instead of committing to a single word from the beginning, the program dynamically updates its word choice to remain as ambiguous as possible, maximizing the challenge.
 
 🔍 Project Overview
